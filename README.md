@@ -1,5 +1,5 @@
-# W3schools Sqlite Test Database
-A w3schools sqlite test database with a parser.
+# W3schools Sqlite Demo Database
+A w3schools sqlite demo database with a parser.
 
 `w3schools.db` — sqlite database
 
