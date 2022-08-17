@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 # MacOS
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+>>>>>>> 5c502e98683d23a74447805770cc4fd40e146439
